@@ -1,0 +1,1 @@
+Este manual técnico describe el funcionamiento interno básico del sistema
